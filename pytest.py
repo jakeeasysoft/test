@@ -2,5 +2,4 @@
 import sys
 
 for _input in sys.stdin:
-    print(_input)
-
+    sys.stdout.write(_input)
